@@ -1,0 +1,15 @@
+{
+  "name": "nebo-pvo-drone-multiplayer",
+  "version": "1.0.0",
+  "description": "Мультиплеер (2 игрока) для игры «НЕБО: ПВО / ДРОН» на Three.js — Node.js + Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["threejs", "socketio", "multiplayer", "game"],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
